@@ -86,7 +86,7 @@ The Design Challenge is broken into eight units over three workshop days, follow
   - 13:30 to 14:00 // Visual Style and Artistic Statement Prompts
   - 14:00 to 15:30 // Team Work. *Draft screenshots due in Google Slides by 15:30.*
   - 15:30 to 15:45 // Break
-	* e.g., [Unit 5 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit5.pdf)
+	* [Unit 5 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit5.pdf)
 
 * **Unit 6: Interim Critique, Sharing Your Squiggles / Team Presentations & Draft Feedback**
 * Initial Drafts Due in Google Slides by _16:00_
