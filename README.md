@@ -1,6 +1,10 @@
-# 2025 SDG Design Challenge / Atlas of Sustainability in One Week!
+# 2026 SDG Design Challenge İstanbul / Atlas of Sustainability 2.0
 
-## tl/dr: [Download the _Atlas of Sustainability_ for Free!](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustinability_InternationalCartographicAssociation.pdf)!
+## Previous Edition: Vienna 2025 → *Atlas of Sustainability*
+
+This repository continues the [2025 SDG Design Challenge](https://github.com/uwcartlab/Vienna-DC-2025) held at the Technical University of Wien in May 2025. In less than one week, the Vienna Design Challenge produced the *Atlas of Sustainability*, an official publication of the International Cartographic Association. Download the Vienna *Atlas* for free: 
+
+[Download the _Atlas of Sustainability_ for Free!](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustinability_InternationalCartographicAssociation.pdf)!
 
 The 2025 Design Challenge resulted in the _Atlas of Sustainability_, an official publication of the International Cartographic Association produced in less than one week at the Technical University of Wien. Download the final printed _Atlas_ [here](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustinability_InternationalCartographicAssociation.pdf).
 
@@ -12,19 +16,32 @@ Roth RE, G Gartner, G Baldrica-Franklin, A Cowart, L Houtman, A Kagawa, M Keskin
 
 [Cartographer Names]. 2025. In: Roth RE, G Gartner, G Baldrica-Franklin, A Cowart, L Houtman, A Kagawa, M Keskin, MJ Kraak, NT Nawshin, F Ortag, B Ricker, S Schlumpf, and Z Stachoň (Editors). 2025. Atlas of Sustainability. Vienna, Austria: The International Cartographic Association. Page #s.
 
-## Welcome to the 2025 Design Challenge!
+The Vienna materials (slides, layout templates, tutorials, and data) remain in this repository and are reused for İstanbul 2026.
 
-The University of Wisconsin Cartography Lab ([UW Cart Lab](https://www.geography.wisc.edu/cartography)) Design Challenge is a day-long mapping workshop that brings together Cartography and Geography students, often in collaboration with campus or community partners, around a curated mapping theme. The Design Challenge is now an institution in the University of Wisconsin‒Madison Geography Department, first running in 2015 and wrapping its 10th annual event this past February 2024. This year (officially #DC11) we are taking the Design Challenge international, combining efforts with the Technical University of Wien, the Erasmus Mundus MSc Cartography Programme, and the International Cartographic Association Commissions on Sustainable Development and the User Experience (UX).
 
-Specifically, we will be making a collective atlas of the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals) ... _in less than one week_! The UN adopted the 2030 Agenda for Sustainable Development in 2015, an expansion from the prior 2000–2015 Millennium Development Goals, and defined a global indicator framework for collective transformation and action toward a more equitable and just world. At the time of this writing (October 2024), the SDG global indicator framework comprised 17 goals to address the most pressing problems facing our worlds, 169 targets that prescribe real and actionable outcomes for sustainability, and 231 unique indicators used to measure and monitor progress towards these targets, inform policy at global and local levels, and promote accountability across all stakeholders (https://unstats.un.org/sdgs/). 
+## Welcome to the 2026 Design Challenge İstanbul!
 
-## Prompt: SDG Atlas in a Week
+**Mapping Change. Designing the Future.**
+**24–27 November 2026 · İstanbul Teknik Üniversitesi, Taşkışla Campus**
 
-Our SDG Atlas in a Week will include at least 17 two page spreads, one covering each of the SDGs plus some from front and back matter. Each spread will include one page for maps, charts, and clarifying annotation about the SDG and a second page providing a title and statement about what the maps are saying and what this means for our planet's future and our individual actions. You will work in a small team to develop one of the atlas spreads, but in addition to mapping SDG indicator data, we also want you to bring your own personal experiences and home locations into the map, telling a _compelling story_ about your team's common ground around the SDG and the alternatives that are possible from your different, worldwide perspectives.
+The Design Challenge is a mapping workshop that brings together cartographers, mapmakers, and map users around a curated mapping theme. It originated at the University of Wisconsin Cartography Lab ([UW Cart Lab](https://www.geography.wisc.edu/cartography)) in 2015 and went international in Vienna in 2025. The 2026 edition is held in İstanbul, hosted by the İTÜ Çevre ve Şehircilik Uygulama ve Araştırma Merkezi, in cooperation with the International Cartographic Association (ICA) Commission on the User Experience (UX) and the Chamber of Surveying and Cadastre Engineers of Türkiye (HKMO) Commissions on Cartography and Spatial Informatics, GIS and Technologies, and Professional Education.
+
+The theoretical and practical framework of the event builds on [*Mapping for a Sustainable World*](https://digitallibrary.un.org/record/3898826?v=pdf) (Kraak, Roth, Ricker, Kagawa, and Le Sourd 2020), published by the United Nations and the ICA. The Turkish translation, [*Sürdürülebilir Dünya İçin Harita Yapımı*](https://www.hkmo.org.tr/samsun/kitaplar/268), was prepared by the HKMO Commission on Cartography and Spatial Informatics and will be introduced at the event.
+
+The workshop runs over three days with ~40 invited participants, followed by a public half-day event on Day 4 where results are shared. The event language is English.
+
+## Prompt: SDG Atlas in 3 Days
+
+Our SDG Atlas in 3 Days will include two-page spreads covering the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals). Each spread has two pages:
+
+- **Maps page:** maps, charts, and clarifying annotations about the SDG.
+- **Statement page:** a title and statement about what the maps are saying and what this means for our planet's future and our individual actions.
+
+You will work in a small team to develop one of the atlas spreads. In addition to mapping SDG indicator data, we want you to bring your own personal experiences and home locations into the map. Tell a *compelling story* about your team's common ground around the SDG and the alternatives that are possible from your different perspectives.
  
 ## Schedule 
 
-The DC Schedule is broken into six 90-120 minute units spanning three days, with most scheduled activities on Monday, May 12th, and drafts submitted 24 hours after the final unit on Thursday, May 15th. The schedule also includes a PhD student meetup (open to MSc students, particularly those interested in a PhD) and two social opportunities for conversation and networking (Wednesday and Thursday)
+The Design Challenge is broken into eight units over three workshop days, followed by a public event on Day 4. All times are local (TRT, UTC+3). Details marked TBC will be updated.
 
 ### Day 0 // Tuesday 0.60.25
 
