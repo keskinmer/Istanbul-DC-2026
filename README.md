@@ -39,17 +39,19 @@ You will work in a small team to develop one of the atlas spreads. In addition t
 
 The Design Challenge is broken into eight units over three workshop days, followed by a public event on Day 4. All times are local (TRT, UTC+3). Details marked TBC will be updated.
 
-### Day 0 // Tuesday 0.60.25
+### Day 0 // Online Kick-off (TBC, ≈ 10.11.26)
 
-* **Unit 0: Sneak Peak**
-	* [Unit 0 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit0.pdf)
+- **Unit 0: Sneak Peek**
+  - Welcome, the 2026 prompt, and the Design Challenge format
+  - Software and data checklist (QGIS or ArcGIS; Adobe Illustrator or Inkscape)
+* [Unit 0 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit0.pdf)
 
 
-### Day 1 // Monday 12.05.25
+### Day 1 // Tuesday 24.11.26
 
 * **Unit 1: Introductions & Inspiration Talks**
     * 10:00 to 10:15 // Arrival (and coffee!)
-    * 10:15 to 10:30 // [Introductions](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1.pdf) from Georg Gartner and Robert Roth
+    * 10:15 to 10:30 // [Introductions](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1.pdf) from Merve Keskin and Robert Roth
     * 10:30 to 10:45 // [Inspiration Talk 1: The United Nations Sustainable Development Goals](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Kagawa.pdf) (Ayako Kagawa)
     * 10:45 to 11:00 // [Inspiration Talk 2: Tips for Mapping the SDGs](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Roth.pdf) (Robert Roth)
     * 11:00 to 11:15 // [Inspiration Talk 3: Making an Atlas in a Day](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Cowart.pdf) (Alicia Cowart)
@@ -57,8 +59,8 @@ The Design Challenge is broken into eight units over three workshop days, follow
 * 11:15 to 11:30 // Break
 
 * **Unit 2: Team Formation**
-	* 11:30 to 12:00 // Picking Your SDG (rank your top three SDG themes, narrow into small groups, facilitated by Robert Roth)
-	* 12:00 to 13:00 // Brainstorming Your Story (breakouts with Alicia Cowart, Merve Keskin, N.T. Nawshin, Robert Roth, Zdenek Stachon, and available TUW staff)
+	* 11:30 to 12:00 // Invited participants are pre-matched to SDGs by the organizers; teams of 2-3 meet and confirm their SDG, facilitated by Ahmet Özgür Dogru)
+	* 12:00 to 13:00 // Brainstorming Your Story (breakouts with Ahmet Özgür Dogru, Alicia Cowart, Merve Keskin, Nesibe Necla Ulugtekin, Osman Kirtiloglu, Öztug Bildirici, Robert Roth, and local mentors)
 	* [Unit 2 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit2.pdf)
 
 * 13:00 to 14:00 // Lunch
@@ -75,51 +77,53 @@ The Design Challenge is broken into eight units over three workshop days, follow
 	* [Unit 4 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit4.pdf)
 
 	
-### Day 2 // Tuesday 13.05.25
+### Day 2 // Wednesday 25.11.26
 
 * **Unit 5: Design Sprint 3, Polishing Your Visual Story**
-    * 14:30 to 15:00 // Adobe Illustrator Demo
-    * 15:00 to 17:00 // Team Work (organizers available for questions) *The goal is to be out of GIS and into Adobe Illustrator by day's end*
-	* 17:00+ // Continue Work As Needed (Optional)
+  - 09:15 to 09:45 // Demo: From GIS to Vector Design, Designing for the Grid
+  - 09:45 to 10:30 // Mentor rounds on projection, generalization, normalization, and classification
+  - 10:30 to 12:30 // Team Work with one-on-one mentoring. *The goal is to be out of GIS by lunch.*
+  - 13:30 to 14:00 // Visual Style and Artistic Statement Prompts
+  - 14:00 to 15:30 // Team Work. *Draft screenshots due in Google Slides by 15:30.*
+  - 15:30 to 15:45 // Break
 	* [Unit 5 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit5.pdf)
 
-	
-### Day 3 // Wednesday 14.05.25
-
+* **Unit 6: Interim Critique, Sharing Your Squiggles / Team Presentations & Draft Feedback**
 * Initial Drafts Due in Google Slides by _16:00_
+  - 16:00 to 18:00 // Team Presentations (5 slides / 5 minutes maximum + 5 minutes feedback)
+  - 18:00 to 18:30 // Team Debrief
+- Draft slides per SDG (links TBC)
+  * 18:30+ // Continue Work As Needed (Optional)
+    
+### Day 3 // Thursday 26.11.26
 
-* **Unit 6: Team Presentations & Draft Feedback**
-    * 16:00 to 18:00 // Presentations
-	* [Unit 6 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit6.pdf)
-	
-	* [SDG 1](https://docs.google.com/presentation/d/1R3aAqohCjxt9Jb2oHGeXxQ_SY0AWDcN7bnCh8rYiDFU/edit?usp=sharing)
-	* [SDG 2](https://docs.google.com/presentation/d/1SjdCzwVkswXKyBR4pf3bouitB6etQ858032zsvgBuiw/edit?usp=sharing)
-	* [SDG 3](https://docs.google.com/presentation/d/1TjSnnWIWqbDKayIH2uTkeeuuua-fm7_AFseKV32rN1c/edit?usp=sharing)
-	* [SDG 4](https://docs.google.com/presentation/d/1d38YEYtUF-siZnJIE4XpWY115oOqe-23ubDiST0GPD8/edit?usp=sharing)
-	* [SDG 5](https://docs.google.com/presentation/d/18blbFSSJMaoRVy7QOx5J4BE_-fULQRo25Ny5mIZRDIo/edit?usp=sharing)
-	* [SDG 6](https://docs.google.com/presentation/d/1QuUUuIZkCKzYfujcakUtvpqoIXliwxHRf9l3QZ_QWXc/edit?usp=sharing)
-	* [SDG 7](https://docs.google.com/presentation/d/18c-t2-iemImbGzjq-Z6nmgufNiMhKdkc4bT6YPSgA1o/edit?usp=sharing)
-	* [SDG 8](https://docs.google.com/presentation/d/1JaO_P2jrofo-tcgxCvuP37K0Q68aNziJ7hvmpNwsHIk/edit?usp=sharing)
-	* [SDG 9](https://docs.google.com/presentation/d/1uFx-eEWyG62BsPZAQncHq7q79xcWGHk7ZcnccJr8am8/edit?usp=sharing)
-	* [SDG 10](https://docs.google.com/presentation/d/1KPta9I_GO2u1tlb0gSHTEnClvs-S0OiYE2wY0apSgn8/edit?usp=sharing)
-	* [SDG 11](https://docs.google.com/presentation/d/1CfgfHd6apUtKEfHkw_4T8aEvSseuMYc1tOfKh_PI77Q/edit?usp=sharing)
-	* [SDG 12](https://docs.google.com/presentation/d/1w3MLieiTMmCUFawHh8H7rXFVdK0b5s81pxz5w3COe_c/edit?usp=sharing)
-	* [SDG 13](https://docs.google.com/presentation/d/1JlRoNPh1G4DrTtHb_Qaa0Gqg9uBcdGlJukcuTxJ3F-g/edit?usp=sharing)
-	* [SDG 14](https://docs.google.com/presentation/d/1sd5ZexCbRlTve6WdfRx-BrDLxCQuJpKFuna9sjhnSpU/edit?usp=sharing)
-	* [SDG 15](https://docs.google.com/presentation/d/11JxDKUNwQrSojrSu0cGDmvZPDRbpjbEKUx7wpSGM5sQ/edit?usp=sharing)
-	* [SDG 16](https://docs.google.com/presentation/d/1-AFFZlOjvh-AcfBqeq8CUabrsKpRQGTCAYfOpjRoSI8/edit?usp=sharing)
-	* [SDG 17](https://docs.google.com/presentation/d/1PSo6AOcoUhNHyFCbhfBpS06gq_534MyNM7lSV25nI4I/edit?usp=sharing)
-	
-* 18:00+ // Social (!) *Wienden Bräu*
-
-### Day 4 // Thursday 15.05.25
-
-* Second Drafts Due to Rob by _EXTENDED TO END OF DATE THURSDAY!_
+* **Unit 7: Design Sprint 4, Finalizing Your Spread**
+  - 09:00 to 11:30 // Final revisions and mentor sign-off
+  - 11:30 to 12:00 // Prepare final presentations. *Final files due by 12:00 
 	** [Upload Form including Atlas Text](https://docs.google.com/forms/d/e/1FAIpQLScXGaDCgswx5sGpmRXHKlSGYNNB2u7M1JYsAwLq9dPncjwGkA/viewform?usp=header)
+  - 12:00 to 13:00 // Lunch
+* **Unit 8: Final Presentations & Jury**
+  - 13:00 to 15:00 // Team Presentations and Jury Feedback
+  - 15:00 to 15:30 // Gallery Walk & Coffee
+  - 15:30 to 16:15 // Roundtable: Next Steps and Future Collaboration
+  - 16:15 to 16:45 // Certificate Ceremony
+  - 16:45 to 17:00 // Closing
+	
 
-* PhD Student Show and Tell (N.T. Nawshin, Gareth Baldrica-Franklin) *Contact Rob if you are interested in giving a 5-10 minute lightning talk*
+### Day 4 // Friday 27.11.26 (Public Event, Morning)
 
-* 18:00+ // PhD Student Social (Alicia and Rob will crash!) *Recommendations appreciated!*
+Open to everyone.
+
+- 09:00 to 09:30 // Registration, coffee, and exhibition opening
+- 09:30 to 09:45 // Welcome
+- 09:45 to 10:20 // Design Challenge Results: Team Lightning Showcase (Merve Keskin)
+- 10:20 to 10:40 // Coffee Break & Gallery Walk
+- 10:40 to 11:40 // **Lecture: Maps for SDGs** (Robert Roth). Why we design things in a certain way, what we did for the atlas, awareness of disparities, and spatial thinking.
+- 11:40 to 12:10 // Q&A
+- 12:10 to 12:30 // Closing
+
+
+
 
 
 
