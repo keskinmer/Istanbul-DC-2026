@@ -238,16 +238,22 @@ Data from any official government source is limited. Combining different sources
 	* Merve Keskin, Vice Chair, Commission on the User Experience
 	* Robert E. Roth, Chair, Commission on the User Experience
 	
-* **HKMO 
-	* Nesibe Necla Ulugtekin
+* **Chamber of Surveying and Cadastre Engineers of Türkiye (HKMO)**
+  - Commission on Cartography and Spatial Informatics
+    * Nesibe Necla Ulugtekin
 	* Ibrahim Öztug Bildirici
 	* Ahmet Özgür Dogru
     * Osman Kirtiloglu
+    * Merve Keskin  
+  - Commission on Professional Education
     * Rahmi Nurhan Celik
     * Pinar Demirci
+  - Administration
     * Mahmut Olcay Krokmaz
-    * Gizem Gürlek
-    * Merve Keskin
+    * Gizem Gürlek    
+      
+* **İstanbul Teknik Üniversitesi**
+  - Çevre ve Şehircilik Uygulama ve Araştırma Merkezi
 
 * **United Nations**
 	* Ayako Kagawa
