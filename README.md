@@ -39,7 +39,7 @@ You will work in a small team to develop one of the atlas spreads. In addition t
 
 The Design Challenge is broken into eight units over three workshop days, followed by a public event on Day 4. All times are local (TRT, UTC+3). Details marked TBC will be updated.
 
-### Day 0 // Online Kick-off (TBC, ≈ 10.11.26)
+### Day 0 // Online Kick-off with invited participants (TBC, ≈ 17.11.26)
 
 - **Unit 0: Sneak Peek**
   - Welcome, the 2026 prompt, and the Design Challenge format
@@ -50,8 +50,8 @@ The Design Challenge is broken into eight units over three workshop days, follow
 ### Day 1 // Tuesday 24.11.26
 
 * **Unit 1: Introductions & Inspiration Talks**
-    * 10:00 to 10:15 // Arrival (and coffee!)
-    * 10:15 to 10:30 // [Introductions](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1.pdf) from Merve Keskin and Robert Roth
+    * 10:00 to 10:15 // Arrival and coffee
+    * 10:15 to 10:30 // [Introductions](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1.pdf) (Merve Keskin and Robert Roth)
     * 10:30 to 10:45 // [Inspiration Talk 1: The United Nations Sustainable Development Goals](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Kagawa.pdf) (Ayako Kagawa)
     * 10:45 to 11:00 // [Inspiration Talk 2: Tips for Mapping the SDGs](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Roth.pdf) (Robert Roth)
     * 11:00 to 11:15 // [Inspiration Talk 3: Making an Atlas in a Day](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Cowart.pdf) (Alicia Cowart)
@@ -69,7 +69,7 @@ The Design Challenge is broken into eight units over three workshop days, follow
     * 14:00 to 15:30 // Team Work (organizers available for questions)
 	* [Unit 3 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit3.pdf)
 
-* 15:30 to 16:00 // Creative Break, the Marshmallow Challenge (facilitated by Robert Roth)
+* 15:30 to 16:00 // Creative Break, the Marshmallow Challenge (Robert Roth)
 
 * **Unit 4: Design Sprint 2, Sketching & Organizing Your Visual Story**
     * 16:00 to 17:30 // Team Work (organizers available for questions) *The goal is to have cleaned, mappable data in a GIS by day's end*
@@ -86,10 +86,10 @@ The Design Challenge is broken into eight units over three workshop days, follow
   - 13:30 to 14:00 // Visual Style and Artistic Statement Prompts
   - 14:00 to 15:30 // Team Work. *Draft screenshots due in Google Slides by 15:30.*
   - 15:30 to 15:45 // Break
-	* [Unit 5 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit5.pdf)
+  - [Unit 5 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit5.pdf)
 
 * **Unit 6: Interim Critique, Sharing Your Squiggles / Team Presentations & Draft Feedback**
-* Initial Drafts Due in Google Slides by _16:00_
+Initial Drafts Due in Google Slides by _16:00_
   - 16:00 to 18:00 // Team Presentations (5 slides / 5 minutes maximum + 5 minutes feedback)
   - 18:00 to 18:30 // Team Debrief
 - Draft slides per SDG (links TBC)
@@ -101,27 +101,27 @@ The Design Challenge is broken into eight units over three workshop days, follow
   - 09:00 to 11:30 // Final revisions and mentor sign-off
   - 11:30 to 12:00 // Prepare final presentations. *Final files due by 12:00 
 	** [Upload Form including Atlas Text](https://docs.google.com/forms/d/e/1FAIpQLScXGaDCgswx5sGpmRXHKlSGYNNB2u7M1JYsAwLq9dPncjwGkA/viewform?usp=header)
-  - 12:00 to 13:00 // Lunch
+  - 12:00 to 13:30 // Lunch
 * **Unit 8: Final Presentations & Jury**
-  - 13:00 to 15:00 // Team Presentations and Jury Feedback
-  - 15:00 to 15:30 // Gallery Walk & Coffee
-  - 15:30 to 16:15 // Roundtable: Next Steps and Future Collaboration
-  - 16:15 to 16:45 // Certificate Ceremony
+  - 13:30 to 15:30 // Team Presentations and Jury Feedback
+  - 15:30 to 16:00 // Gallery Walk & Coffee
+  - 16:00 to 16:45 // Roundtable: Next Steps and Future Collaboration
   - 16:45 to 17:00 // Closing
 	
+SOCIAL EVENT??? (TBD)
 
 ### Day 4 // Friday 27.11.26 (Public Event, Morning)
 
 Open to everyone.
 
-- 09:00 to 09:30 // Registration, coffee, and exhibition opening
-- 09:30 to 09:45 // Welcome
-- 09:45 to 10:20 // Design Challenge Results: Team Lightning Showcase (Merve Keskin)
-- 10:20 to 10:40 // Coffee Break & Gallery Walk
-- 10:40 to 11:40 // **Lecture: Maps for SDGs** (Robert Roth). Why we design things in a certain way, what we did for the atlas, awareness of disparities, and spatial thinking.
-- 11:40 to 12:10 // Q&A
-- 12:10 to 12:30 // Closing
-
+- 09:30 to 10:00 // Registration, coffee, and exhibition opening
+- 10:00 to 10:15 // Welcome
+- 10:30 to 11:00 // Design Challenge Results: Team Lightning Showcase (Merve Keskin)
+- 11:00 to 11:30 // Certificate Ceremony
+- 11:30 to 12:30 // **Lecture: Maps for SDGs** (Robert Roth). Why we design things in a certain way, what we did for the atlas, awareness of disparities, and spatial thinking.
+- 12:30 to 12:45 // Q&A
+- 12:45 to 13:00 // Closing (Merve Keskin)
+- 13:00 to 13:30 // Coffee & Gallery Walk
 
 
 
