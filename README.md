@@ -104,7 +104,7 @@ Initial Drafts Due in Google Slides by _16:00_
   - 12:00 to 13:30 // Lunch
 * **Unit 8: Final Presentations & Jury**
   - 13:30 to 15:30 // Team Presentations and Jury Feedback
-  - 15:30 to 16:00 // Gallery Walk & Coffee
+  - 15:30 to 16:00 // Coffee Break
   - 16:00 to 16:45 // Roundtable: Next Steps and Future Collaboration
   - 16:45 to 17:00 // Closing
 	
@@ -121,7 +121,7 @@ Open to everyone.
 - 11:30 to 12:30 // **Lecture: Maps for SDGs** (Robert Roth). Why we design things in a certain way, what we did for the atlas, awareness of disparities, and spatial thinking.
 - 12:30 to 12:45 // Q&A
 - 12:45 to 13:00 // Closing (Merve Keskin)
-- 13:00 to 13:30 // Coffee & Gallery Walk
+- 13:00 to 13:30 // Coffee & Distribution of Mapping for a Sustainable World (TR) Book 
 
 
 
