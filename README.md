@@ -4,16 +4,9 @@
 
 This repository continues the [2025 SDG Design Challenge](https://github.com/uwcartlab/Vienna-DC-2025) held at the Technical University of Wien in May 2025. In less than one week, the Vienna Design Challenge produced the *Atlas of Sustainability*, an official publication of the International Cartographic Association. Download the DC-2025-Vienna *Atlas* for free [here](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustainability_InternationalCartographicAssociation.pdf)
 
-**Cite the Atlas as:**
-
-Roth RE, G Gartner, G Baldrica-Franklin, A Cowart, L Houtman, A Kagawa, M Keskin, MJ Kraak, NT Nawshin, F Ortag, B Ricker, S Schlumpf, and Z Stachoň (Editors). 2025. Atlas of Sustainability. Vienna, Austria: The International Cartographic Association.
-
-**Cite Atlas spreads as:**
-
-[Cartographer Names]. 2025. In: Roth RE, G Gartner, G Baldrica-Franklin, A Cowart, L Houtman, A Kagawa, M Keskin, MJ Kraak, NT Nawshin, F Ortag, B Ricker, S Schlumpf, and Z Stachoň (Editors). 2025. Atlas of Sustainability. Vienna, Austria: The International Cartographic Association. Page #s.
-
 The Vienna materials (slides, layout templates, tutorials, and data) remain in this repository and are reused for İstanbul 2026.
 
+//Citation details of the produced atlas will be here.//
 
 ## Welcome to the 2026 Design Challenge İstanbul!
 
