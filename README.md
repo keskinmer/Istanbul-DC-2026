@@ -46,7 +46,7 @@ The Design Challenge is broken into eight units over three workshop days, follow
     * 10:00 to 10:15 // Arrival and coffee
     * 10:15 to 10:25// Welcome Speech from Organizers (UYGAR & HKMO)
     * 10:25 to 10:30 // [Introductions](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1.pdf) (Merve Keskin)
-    * 10:30 to 10:45 // [Inspiration Talk 1: The United Nations Sustainable Development Goals](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Kagawa.pdf) (Ayako Kagawa)
+    * 10:30 to 10:45 // [Inspiration Talk 1: The United Nations Sustainable Development Goals](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Kagawa.pdf) (Ayako Kagawa - TBC)
     * 10:45 to 11:00 // [Inspiration Talk 2: Tips for Mapping the SDGs](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Roth.pdf) (Robert Roth)
     * 11:00 to 11:15 // [Inspiration Talk 3: Making an Atlas in a Day](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Cowart.pdf) (Alicia Cowart)
 
@@ -227,32 +227,35 @@ Data from any official government source is limited. Combining different sources
 	* [4.2 - Preparing an SVG in Illustrator](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Tutorials/Exporting/2_SVG_prep_in_illustrator.md)
 
 ## Design Challenge Organizers / Atlas Editors
-
-* **International Cartographic Association**
-	* Merve Keskin, Vice Chair, Commission on the User Experience
-	* Robert E. Roth, Chair, Commission on the User Experience
 	
 * **Chamber of Surveying and Cadastre Engineers of Türkiye (HKMO)**
   - Commission on Cartography and Spatial Informatics
+    * Merve Keskin
     * Nesibe Necla Ulugtekin
 	* Ibrahim Öztug Bildirici
 	* Ahmet Özgür Dogru
     * Osman Kirtiloglu
-    * Merve Keskin  
   - Commission on Professional Education
     * Rahmi Nurhan Celik
     * Pinar Demirci
   - Administration
     * Mahmut Olcay Krokmaz
-    * Gizem Gürlek    
+    * Gizem Gürlek
+    * Selenay Kivanc
+
+* **UW Cart Lab**
+	* Robert Roth
+	* Alicia Cowart     
+
+* **International Cartographic Association**
+	* Robert E. Roth, Chair, Commission on the User Experience
+	* Merve Keskin, Vice Chair, Commission on the User Experience
       
 * **İstanbul Teknik Üniversitesi**
-  - Çevre ve Şehircilik Uygulama ve Araştırma Merkezi
+    * Çevre ve Şehircilik Uygulama ve Araştırma Merkezi
 
 * **United Nations**
 	* Ayako Kagawa
 
-* **UW Cart Lab**
-	* Alicia Cowart
-	* Robert Roth
+
 
