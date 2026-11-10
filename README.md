@@ -32,7 +32,7 @@ You will work in a small team to develop one of the atlas spreads. In addition t
 
 The Design Challenge is broken into eight units over three workshop days, followed by a public event on Day 4. All times are local (TRT, UTC+3). Details marked TBC will be updated.
 
-### Day 0 // Online Kick-off with invited participants (TBC, ≈ 17.11.26)
+### Day 0 // Online Kick-off with invited participants (19.11.26)
 
 - **Unit 0: Sneak Peek**
   - Welcome, the 2026 prompt, and the Design Challenge format
@@ -44,7 +44,8 @@ The Design Challenge is broken into eight units over three workshop days, follow
 
 * **Unit 1: Introductions & Inspiration Talks**
     * 10:00 to 10:15 // Arrival and coffee
-    * 10:15 to 10:30 // [Introductions](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1.pdf) (Merve Keskin and Robert Roth)
+    * 10:15 to 10:25// Welcome Speech from Organizers (UYGAR & HKMO)
+    * 10:25 to 10:30 // [Introductions](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1.pdf) (Merve Keskin)
     * 10:30 to 10:45 // [Inspiration Talk 1: The United Nations Sustainable Development Goals](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Kagawa.pdf) (Ayako Kagawa)
     * 10:45 to 11:00 // [Inspiration Talk 2: Tips for Mapping the SDGs](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Roth.pdf) (Robert Roth)
     * 11:00 to 11:15 // [Inspiration Talk 3: Making an Atlas in a Day](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Cowart.pdf) (Alicia Cowart)
