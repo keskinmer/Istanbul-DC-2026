@@ -111,11 +111,11 @@ Open to everyone.
 - 09:30 to 10:00 // Registration, coffee, and exhibition opening
 - 10:00 to 10:15 // Welcome
 - 10:30 to 11:00 // Design Challenge Results: Team Lightning Showcase (Merve Keskin)
-- 11:00 to 11:30 // Certificate Ceremony
+- 11:00 to 11:30 // Certificate Ceremony & Distribution of Mapping for a Sustainable World (TR) Book 
 - 11:30 to 12:30 // **Lecture: Maps for SDGs** (Robert Roth). Why we design things in a certain way, what we did for the atlas, awareness of disparities, and spatial thinking.
 - 12:30 to 12:45 // Q&A
 - 12:45 to 13:00 // Closing (Merve Keskin)
-- 13:00 to 13:30 // Coffee & Distribution of Mapping for a Sustainable World (TR) Book 
+- 13:00 to 13:30 // Coffee 
 
 
 
