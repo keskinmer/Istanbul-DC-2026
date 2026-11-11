@@ -74,19 +74,19 @@ The Design Challenge is broken into eight units over three workshop days, follow
 ### Day 2 // Wednesday 25.11.26
 
 * **Unit 5: Design Sprint 3, Polishing Your Visual Story**
-  - 09:15 to 09:45 // Demo: From GIS to Vector Design, Designing for the Grid
-  - 09:45 to 10:30 // Mentor rounds on projection, generalization, normalization, and classification
-  - 10:30 to 12:30 // Team Work with one-on-one mentoring. *The goal is to be out of GIS by lunch.*
+  - 09:15 to 09:45 // Adobe Illustrator Demo: From GIS to Vector Design, Designing for the Grid (Alicia Cowart)
+  - 09:45 to 10:30 // Specs of the Atlas Spreads & Layout (Robert Roth)
+  - 10:30 to 12:30 // Team Work with one-on-one mentoring (on on projection, generalization, normalization, and classification). *The goal is to be out of GIS by lunch.*
   - 13:30 to 14:00 // Visual Style and Artistic Statement Prompts
   - 14:00 to 15:30 // Team Work. *Draft screenshots due in Google Slides by 15:30.*
   - 15:30 to 15:45 // Break
   - [Unit 5 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit5.pdf)
 
 * **Unit 6: Interim Critique, Sharing Your Squiggles / Team Presentations & Draft Feedback**
-Initial Drafts Due in Google Slides by _16:00_
-  - 16:00 to 18:00 // Team Presentations (5 slides / 5 minutes maximum + 5 minutes feedback)
+Initial Drafts are printed by _15:45_
+  - 16:00 to 18:00 //Poster-style presentation - Paper & pen editing by mentors
   - 18:00 to 18:30 // Team Debrief
-- Draft slides per SDG (links TBC)
+  - Draft slides per SDG (links TBC)
   * 18:30+ // Continue Work As Needed (Optional)
     
 ### Day 3 // Thursday 26.11.26
@@ -97,12 +97,12 @@ Initial Drafts Due in Google Slides by _16:00_
 	** [Upload Form including Atlas Text](https://docs.google.com/forms/d/e/1FAIpQLScXGaDCgswx5sGpmRXHKlSGYNNB2u7M1JYsAwLq9dPncjwGkA/viewform?usp=header)
   - 12:00 to 13:30 // Lunch
 * **Unit 8: Final Presentations & Jury**
-  - 13:30 to 15:30 // Team Presentations and Jury Feedback
+  - 13:30 to 15:30 // Team Presentations and Jury Feedback (5 slides / 5 minutes maximum + 5 minutes feedback)
   - 15:30 to 16:00 // Coffee Break
   - 16:00 to 16:45 // Roundtable: Next Steps and Future Collaboration
   - 16:45 to 17:00 // Closing
 	
-SOCIAL EVENT??? (TBD)
+SOCIAL EVENT (TBD)
 
 ### Day 4 // Friday 27.11.26 (Public Event, Morning)
 
