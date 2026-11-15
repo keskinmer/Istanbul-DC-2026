@@ -239,10 +239,9 @@ Data from any official government source is limited. Combining different sources
     * Rahmi Nurhan Celik
     * Pinar Demirci
   - Administration
-    * Mahmut Olcay Krokmaz
+    * Mahmut Olcay Korkmaz
     * Gizem Gürlek
-    * Selenay Kivanc
-
+ 
 * **UW Cart Lab**
 	* Robert Roth
 	* Alicia Cowart     
@@ -253,9 +252,6 @@ Data from any official government source is limited. Combining different sources
       
 * **İstanbul Teknik Üniversitesi**
     * Çevre ve Şehircilik Uygulama ve Araştırma Merkezi
-
-* **United Nations**
-	* Ayako Kagawa
 
 
 
