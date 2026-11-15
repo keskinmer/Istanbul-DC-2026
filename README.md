@@ -8,7 +8,7 @@ The Vienna materials (slides, layout templates, tutorials, and data) remain in t
 
 //Citation details of the produced atlas will be here.//
 
-## Welcome to the 2026 Design Challenge İstanbul!
+## Welcome to the 2026 SDG Design Challenge İstanbul!
 
 **Mapping Change. Designing the Future.**
 **24–27 November 2026 · İstanbul Teknik Üniversitesi, Taşkışla Campus**
