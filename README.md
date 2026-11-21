@@ -37,7 +37,7 @@ The Design Challenge is broken into eight units over three workshop days, follow
 - **Unit 0: Sneak Peek**
   - Welcome, the 2026 prompt, and the Design Challenge format
   - Software and data checklist (QGIS or ArcGIS; Adobe Illustrator or Inkscape)
-* [Unit 0 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit0.pdf)
+* [Unit 0 Slides](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Istanbul_DC_2026_Unit0_v2.pdf)
 
 
 ### Day 1 // Tuesday 24.11.26
