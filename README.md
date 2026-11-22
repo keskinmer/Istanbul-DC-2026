@@ -53,7 +53,7 @@ The Design Challenge is broken into eight units over three workshop days, follow
 * 11:15 to 11:30 // Break
 
 * **Unit 2: Team Formation**
-	* 11:30 to 12:00 // Invited participants are pre-matched to SDGs by the organizers; teams of 2-3 meet and confirm their SDG, facilitated by Ahmet Özgür Dogru)
+	* 11:30 to 12:00 // Invited participants are pre-matched to SDGs by the organizers; teams of 2-3 meet and confirm their SDG)
 	* 12:00 to 13:00 // Brainstorming Your Story (breakouts with Robert Roth, Merve Keskin, Ahmet Özgür Dogru, Alicia Cowart, Nesibe Necla Ulugtekin, Osman Kirtiloglu, Öztug Bildirici, Pinar Demirci and Alper Sen)
 	* [Unit 2 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit2.pdf)
 
@@ -76,14 +76,14 @@ The Design Challenge is broken into eight units over three workshop days, follow
 * **Unit 5: Design Sprint 3, Polishing Your Visual Story**
   - 09:15 to 09:45 // Adobe Illustrator Demo: From GIS to Vector Design, Designing for the Grid (Alicia Cowart)
   - 09:45 to 10:30 // Specs of the Atlas Spreads & Layout (Robert Roth)
-  - 10:30 to 12:30 // Team Work with one-on-one mentoring (on on projection, generalization, normalization, and classification). *The goal is to be out of GIS by lunch.*
+  - 10:30 to 12:30 // Team Work with one-on-one mentoring (on projection, generalization, normalization, and classification). *The goal is to be out of GIS by lunch.*
   - 13:30 to 14:00 // Visual Style and Artistic Statement Prompts
   - 14:00 to 15:30 // Team Work. *Draft screenshots due in Google Slides by 15:30.*
   - 15:30 to 15:45 // Break
   - [Unit 5 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit5.pdf)
 
 * **Unit 6: Interim Critique, Sharing Your Squiggles / Team Presentations & Draft Feedback**
-Initial Drafts are printed by _15:45_
+  - Initial Drafts are printed by _15:45_
   - 16:00 to 18:00 //Poster-style presentation - Paper & pen editing by mentors
   - 18:00 to 18:30 // Team Debrief
   - Draft slides per SDG (links TBC)
