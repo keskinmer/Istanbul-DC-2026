@@ -68,7 +68,7 @@ The Design Challenge is broken into eight units over three workshop days, follow
 	* [SDG9](https://docs.google.com/presentation/d/1IWWz47zYljteHD_Z0Ys8n1-y8GXtFphptDWpl_mr3Uc/edit?slide=id.p#slide=id.p)
 	* [SDG10](https://docs.google.com/presentation/d/1Gmo_C8fRO-Sw_zGHRAOfCWKDfRA6h6x7kv2DQzjz2WU/edit?slide=id.p#slide=id.p)
 	* [SDG11](https://docs.google.com/presentation/d/1i6zZwVwONddboZIg616QWggeLt8tXWPT47Sf_tEOofI/edit?slide=id.p#slide=id.p)
-	* [SDG12](https://docs.google.com/presentation/d/1B3Wj7EJjVg82fnVgpMdorowpFwEIW6jaEbYHLCSqZJA/edit?slide=id.p#slide=id.p
+	* [SDG12](https://docs.google.com/presentation/d/1B3Wj7EJjVg82fnVgpMdorowpFwEIW6jaEbYHLCSqZJA/edit?slide=id.p#slide=id.p)
 	* [SDG13](https://docs.google.com/presentation/d/1NqgwaXDx7tk9acV9j2dLktLUA0wto4Q3ck6roQH_QDc/edit?slide=id.p#slide=id.p)
 	* [SDG14](https://docs.google.com/presentation/d/16ADzq44vAq_ven2AMAoswNiYLfuU4reJldPfUKgY33o/edit?slide=id.p#slide=id.p)
 	* [SDG15](https://docs.google.com/presentation/d/1gi0IYyEPQGOuIdAJ48e6ZhKbOoU9Db7vp-4qLGDMcHo/edit?slide=id.p#slide=id.p)
