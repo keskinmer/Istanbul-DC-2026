@@ -56,7 +56,25 @@ The Design Challenge is broken into eight units over three workshop days, follow
 	* 11:30 to 12:00 // Invited participants are pre-matched to SDGs by the organizers; teams of 2-3 meet and confirm their SDG)
 	* 12:00 to 13:00 // Brainstorming Your Story (breakouts with Robert Roth, Merve Keskin, Ahmet Özgür Dogru, Alicia Cowart, Nesibe Necla Ulugtekin, Osman Kirtiloglu, Öztug Bildirici, Pinar Demirci and Alper Sen)
 	* [Unit 2 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit2.pdf)
-
+	
+	* [SDG1](https://docs.google.com/presentation/d/15uQqOXm9KZ6AE40WAcTbVwapC3cKBpq6I9yPa51N3Fk/edit?slide=id.p#slide=id.p)
+	* [SDG2](https://docs.google.com/presentation/d/1_nLXXGvGPFSkTxHmiDE38sN3nYmMKwdJufd5PlmfGm8/edit?slide=id.p#slide=id.p)
+	* [SDG3](https://docs.google.com/presentation/d/1kfbcwuJJXsH3ifr8YGLty2NuAe5ZbIMGomAVY-keFFo/edit?slide=id.p#slide=id.p)
+	* [SDG4](https://docs.google.com/presentation/d/1QUj0RMUpwJ1GQ8O4bSjb4NLR7XDOmoBYy6NuMR_uozU/edit?slide=id.p#slide=id.p)
+	* [SDG5](https://docs.google.com/presentation/d/15OUyY0fc4hjicDkRTtGfOcakb_sgIJKfQKGbsi2HO64/edit?slide=id.p#slide=id.p)
+	* [SDG6](https://docs.google.com/presentation/d/1Pu7szbXm8S6ucx2O1UjorOCM1QG2P7J-qEquV9JPaWw/edit?slide=id.p#slide=id.p)
+	* [SDG7](https://docs.google.com/presentation/d/1VL2j7N__n8uztaksNXiDP4mO3MSe7MG7GHvQ9x38giM/edit?slide=id.p#slide=id.p)
+	* [SDG8](https://docs.google.com/presentation/d/1dO70DbrdkKOtTEXD3PNP7FK1okQGLtY-mWARXMVsrGU/edit?slide=id.p#slide=id.p)
+	* [SDG9](https://docs.google.com/presentation/d/1IWWz47zYljteHD_Z0Ys8n1-y8GXtFphptDWpl_mr3Uc/edit?slide=id.p#slide=id.p)
+	* [SDG10](https://docs.google.com/presentation/d/1Gmo_C8fRO-Sw_zGHRAOfCWKDfRA6h6x7kv2DQzjz2WU/edit?slide=id.p#slide=id.p)
+	* [SDG11](https://docs.google.com/presentation/d/1i6zZwVwONddboZIg616QWggeLt8tXWPT47Sf_tEOofI/edit?slide=id.p#slide=id.p)
+	* [SDG12](https://docs.google.com/presentation/d/1B3Wj7EJjVg82fnVgpMdorowpFwEIW6jaEbYHLCSqZJA/edit?slide=id.p#slide=id.p
+	* [SDG13](https://docs.google.com/presentation/d/1NqgwaXDx7tk9acV9j2dLktLUA0wto4Q3ck6roQH_QDc/edit?slide=id.p#slide=id.p)
+	* [SDG14](https://docs.google.com/presentation/d/16ADzq44vAq_ven2AMAoswNiYLfuU4reJldPfUKgY33o/edit?slide=id.p#slide=id.p)
+	* [SDG15](https://docs.google.com/presentation/d/1gi0IYyEPQGOuIdAJ48e6ZhKbOoU9Db7vp-4qLGDMcHo/edit?slide=id.p#slide=id.p)
+	* [SDG16](https://docs.google.com/presentation/d/1V43hh-jh5ovB9rPxwOnqAH5JsOPqEc3K0myyWvCF1jE/edit?slide=id.p#slide=id.p)
+	* [SDG17](https://docs.google.com/presentation/d/1EWjNpB1nC6c4V9kta2zoaiDv_oMZKc-rSHYanhc20Fo/edit?slide=id.p#slide=id.p)
+	
 * 13:00 to 14:00 // Lunch
 
 * **Unit 3: Design Sprint 1, Obtaining Your Data, Researching Your Topic**
