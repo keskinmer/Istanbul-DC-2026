@@ -55,7 +55,7 @@ The Design Challenge is broken into eight units over three workshop days, follow
 * **Unit 2: Team Formation**
 	* 11:30 to 12:00 // Invited participants are pre-matched to SDGs by the organizers; teams of 2-3 meet and confirm their SDG)
 	* 12:00 to 13:00 // Brainstorming Your Story (breakouts with Robert Roth, Merve Keskin, Ahmet Özgür Dogru, Alicia Cowart, Nesibe Necla Ulugtekin, Osman Kirtiloglu, Öztug Bildirici, Pinar Demirci and Alper Sen)
-	* [Unit 2 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit2.pdf)
+	* [Unit 2 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit2.pdfhttps://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Istanbul_DC_2026_Unit2.pdf)
 	
 	* [SDG1](https://docs.google.com/presentation/d/15uQqOXm9KZ6AE40WAcTbVwapC3cKBpq6I9yPa51N3Fk/edit?slide=id.p#slide=id.p)
 	* [SDG2](https://docs.google.com/presentation/d/1_nLXXGvGPFSkTxHmiDE38sN3nYmMKwdJufd5PlmfGm8/edit?slide=id.p#slide=id.p)
