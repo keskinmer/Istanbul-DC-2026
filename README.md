@@ -45,10 +45,10 @@ The Design Challenge is broken into eight units over three workshop days, follow
 * **Unit 1: Introductions & Inspiration Talks**
     * 10:00 to 10:15 // Arrival and coffee
     * 10:15 to 10:25// Welcome Speech from Organizers (UYGAR & HKMO)
-    * 10:25 to 10:30 // [Introductions](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1.pdf) (Merve Keskin)
-    * 10:30 to 10:45 // [Inspiration Talk 1: The United Nations Sustainable Development Goals](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Kagawa.pdf) (Ayako Kagawa - TBC)
-    * 10:45 to 11:00 // [Inspiration Talk 2: Tips for Mapping the SDGs](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Roth.pdf) (Robert Roth)
-    * 11:00 to 11:15 // [Inspiration Talk 3: Making an Atlas in a Day](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Cowart.pdf) (Alicia Cowart)
+    * 10:25 to 10:30 // [Introductions](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Presentation_Introductions.pdf) (Merve Keskin)
+    * 10:30 to 10:45 // [Inspiration Talk 1: The United Nations Sustainable Development Goals](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Inspiration%20Talk%201_Ayako.pdf) (Ayako Kagawa - TBC)
+    * 10:45 to 11:00 // [Inspiration Talk 2: Tips for Mapping the SDGs](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Inspiration%20Talk%202_Rob.pdf) (Robert Roth)
+    * 11:00 to 11:15 // [Inspiration Talk 3: Making an Atlas in a Day](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Inspiration%20Talk%203_Alicia.pdf) (Alicia Cowart)
 
 * 11:15 to 11:30 // Break
 
