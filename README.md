@@ -100,7 +100,7 @@ The Design Challenge is broken into eight units over three workshop days, follow
 	  	* [Specsheet (.pdf)](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/Layout/SpecSheet_Roth_20261125.pdf)
   - 10:30 to 12:30 // Team Work with one-on-one mentoring (on projection, generalization, normalization, and classification). *The goal is to be out of GIS by lunch.*
   - 12:30 to 14:00 // Lunch
-  - 14:00 to 15:30 // Team Work. *Draft pdf due in Google Slides by 15:30.*
+  - 14:00 to 15:30 // Team Work. *Draft pdf (name it as SDG_no) due in Google Slides by 15:30.* https://drive.google.com/drive/folders/1ql9N8GZktkbZtdM-4vnbI0mP1fb0yZjD8JzDMyABnin4eDT1dLUjYUNweep7KYu5ZfGAauGc?usp=sharing
   - 15:30 to 15:45 // Break
   - [Unit 5 Slides](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Istanbul_DC_2026_Unit5.pdf)
 
