@@ -120,12 +120,13 @@ The Design Challenge is broken into eight units over three workshop days, follow
 	** [Upload Form including Atlas Text](https://docs.google.com/forms/d/e/1FAIpQLScXGaDCgswx5sGpmRXHKlSGYNNB2u7M1JYsAwLq9dPncjwGkA/viewform?usp=header)
   - 12:00 to 13:30 // Lunch
 * **Unit 8: Final Presentations & Jury**
-  - 13:30 to 15:30 // Team Presentations and Jury Feedback (5 slides / 5 minutes maximum + 5 minutes feedback)
-  - 15:30 to 16:00 // Coffee Break
-  - 16:00 to 16:45 // Roundtable: Next Steps and Future Collaboration
-  - 16:45 to 17:00 // Closing
-	
-SOCIAL EVENT (TBD)
+  - 13:30 to 15:45 // Team Presentations and Jury Feedback (5 min presentation +3 min Q&A)
+  	- 13:30 to 14:35 - SDG 1 - SDG 8
+	- 14:35 to 14:50 - Break
+	- 14:50 to 15:45 - SDG 9 - SDG 17
+  - 15:45 to 16:15 // Coffee Break
+  - 16:15 to 17:00 // Roundtable: Next Steps and Future Collaboration
+  - 17:00 to 17:15 // Closing
 
 ### Day 4 // Friday 27.11.26 (Public Event, Morning)
 
