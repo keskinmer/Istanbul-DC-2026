@@ -94,6 +94,10 @@ The Design Challenge is broken into eight units over three workshop days, follow
 * **Unit 5: Design Sprint 3, Polishing Your Visual Story**
   - 09:15 to 09:45 // Adobe Illustrator Demo: From GIS to Vector Design, Designing for the Grid (Alicia Cowart)
   - 09:45 to 10:30 // Specs of the Atlas Spreads & Layout (Robert Roth)
+		* [Four-column Layout Template (.ai)](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/Layout/4-Column_Layout_Template_Grid.ai)
+		* [Four-column Layout Template (.pdf)](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/Layout/4-Column_Layout_Template_Grid.pdf)
+		* [Specsheet (.ai)](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/Layout/SpecSheet_Roth_20261125.ai)
+	  	* [Specsheet (.pdf)](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/Layout/SpecSheet_Roth_20261125.pdf)
   - 10:30 to 12:30 // Team Work with one-on-one mentoring (on projection, generalization, normalization, and classification). *The goal is to be out of GIS by lunch.*
   - 13:30 to 14:00 // Visual Style and Artistic Statement Prompts
   - 14:00 to 15:30 // Team Work. *Draft screenshots due in Google Slides by 15:30.*
