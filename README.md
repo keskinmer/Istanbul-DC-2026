@@ -79,14 +79,14 @@ The Design Challenge is broken into eight units over three workshop days, follow
 
 * **Unit 3: Design Sprint 1, Obtaining Your Data, Researching Your Topic**
     * 14:00 to 15:30 // Team Work (organizers available for questions)
-	* [Unit 3 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit3.pdf)
+	* [Unit 3 Slides](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Istanbul_DC_2026_Unit3.pdf)
 
 * 15:30 to 16:00 // Creative Break, the Marshmallow Challenge (Robert Roth)
 
 * **Unit 4: Design Sprint 2, Sketching & Organizing Your Visual Story**
     * 16:00 to 17:30 // Team Work (organizers available for questions) *The goal is to have cleaned, mappable data in a GIS by day's end*
 	* 17:30+ // Continue Work As Needed (Optional)
-	* [Unit 4 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit4.pdf)
+	* [Unit 4 Slides](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Istanbul_DC_2026_Unit4.pdf)
 
 	
 ### Day 2 // Wednesday 25.11.26
