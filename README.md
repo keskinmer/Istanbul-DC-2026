@@ -107,7 +107,7 @@ The Design Challenge is broken into eight units over three workshop days, follow
 * **Unit 6: Interim Critique, Sharing Your Squiggles / Team Presentations & Draft Feedback**
   - Initial Drafts are printed by _15:45_
   - 15:45 to 16:00 // Visual Style and Artistic Statement Prompts here by Thursday 12:00 - https://forms.gle/6Md1ZPwK89bbZ8ZP9
-  - 16:00 to 18:00 //Poster-style presentation - Paper & pen editing by mentors
+  - 16:00 to 18:00 // Poster-style presentation - Paper & pen editing by mentors
   - 18:00 to 18:30 // Team Debrief
   - Draft slides per SDG (links in Unit 2)
   * 18:30+ // Continue Work As Needed (Optional)
