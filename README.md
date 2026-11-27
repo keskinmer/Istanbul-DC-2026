@@ -46,7 +46,7 @@ The Design Challenge is broken into eight units over three workshop days, follow
     * 10:00 to 10:15 // Arrival and coffee
     * 10:15 to 10:25// Welcome Speech from Organizers (UYGAR & HKMO)
     * 10:25 to 10:30 // [Introductions](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Presentation_Introductions.pdf) (Merve Keskin)
-    * 10:30 to 10:45 // [Inspiration Talk 1: The United Nations Sustainable Development Goals](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Inspiration%20Talk%201_Ayako.pdf) (Ayako Kagawa - TBC)
+    * 10:30 to 10:45 // [Inspiration Talk 1: The United Nations Sustainable Development Goals](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Inspiration%20Talk%201_Ayako.pdf) (Ayako Kagawa)
     * 10:45 to 11:00 // [Inspiration Talk 2: Tips for Mapping the SDGs](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Inspiration%20Talk%202_Rob.pdf) (Robert Roth)
     * 11:00 to 11:15 // [Inspiration Talk 3: Making an Atlas in a Day](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Inspiration%20Talk%203_Alicia.pdf) (Alicia Cowart)
 
@@ -99,16 +99,17 @@ The Design Challenge is broken into eight units over three workshop days, follow
 		* [Specsheet (.ai)](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/Layout/SpecSheet_Roth_20261125.ai)
 	  	* [Specsheet (.pdf)](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/Layout/SpecSheet_Roth_20261125.pdf)
   - 10:30 to 12:30 // Team Work with one-on-one mentoring (on projection, generalization, normalization, and classification). *The goal is to be out of GIS by lunch.*
-  - 13:30 to 14:00 // Visual Style and Artistic Statement Prompts
-  - 14:00 to 15:30 // Team Work. *Draft pdf due in Google Slides by 15:30.*
+  - 12:30 to 14:00 // Lunch
+  - 14:00 to 15:30 // Team Work. *Draft pdf (name it as SDG_no) due in Google Slides by 15:30.* https://drive.google.com/drive/folders/1ql9N8GZktkbZtdM-4vnbI0mP1fb0yZjD8JzDMyABnin4eDT1dLUjYUNweep7KYu5ZfGAauGc?usp=sharing
   - 15:30 to 15:45 // Break
   - [Unit 5 Slides](https://github.com/keskinmer/Istanbul-DC-2026/blob/main/UNITS_github/Istanbul_DC_2026_Unit5.pdf)
 
 * **Unit 6: Interim Critique, Sharing Your Squiggles / Team Presentations & Draft Feedback**
   - Initial Drafts are printed by _15:45_
-  - 16:00 to 18:00 //Poster-style presentation - Paper & pen editing by mentors
+  - 15:45 to 16:00 // Visual Style and Artistic Statement Prompts here by Thursday 12:00 - https://forms.gle/6Md1ZPwK89bbZ8ZP9
+  - 16:00 to 18:00 // Poster-style presentation - Paper & pen editing by mentors
   - 18:00 to 18:30 // Team Debrief
-  - Draft slides per SDG (links TBC)
+  - Draft slides per SDG (links in Unit 2)
   * 18:30+ // Continue Work As Needed (Optional)
     
 ### Day 3 // Thursday 26.11.26
@@ -119,26 +120,25 @@ The Design Challenge is broken into eight units over three workshop days, follow
 	** [Upload Form including Atlas Text](https://docs.google.com/forms/d/e/1FAIpQLScXGaDCgswx5sGpmRXHKlSGYNNB2u7M1JYsAwLq9dPncjwGkA/viewform?usp=header)
   - 12:00 to 13:30 // Lunch
 * **Unit 8: Final Presentations & Jury**
-  - 13:30 to 15:30 // Team Presentations and Jury Feedback (5 slides / 5 minutes maximum + 5 minutes feedback)
-  - 15:30 to 16:00 // Coffee Break
-  - 16:00 to 16:45 // Roundtable: Next Steps and Future Collaboration
-  - 16:45 to 17:00 // Closing
-	
-SOCIAL EVENT (TBD)
+  - 13:30 to 15:45 // Team Presentations and Jury Feedback (5 min presentation +3 min Q&A)
+  	- 13:30 to 14:35 - SDG 1 - SDG 8
+	- 14:35 to 14:50 - Break
+	- 14:50 to 15:45 - SDG 9 - SDG 17
+  - 15:45 to 16:15 // Coffee Break
+  - 16:15 to 17:00 // Roundtable: Next Steps and Future Collaboration
+  - 17:00 to 17:15 // Closing
 
 ### Day 4 // Friday 27.11.26 (Public Event, Morning)
 
 Open to everyone.
 
-- 09:30 to 10:00 // Registration, coffee, and exhibition opening
-- 10:00 to 10:15 // Welcome
-- 10:30 to 11:00 // Design Challenge Results: Team Lightning Showcase (Merve Keskin)
-- 11:00 to 11:30 // Certificate Ceremony & Distribution of Mapping for a Sustainable World (TR) Book 
-- 11:30 to 12:30 // **Lecture: Maps for SDGs** (Robert Roth). Why we design things in a certain way, what we did for the atlas, awareness of disparities, and spatial thinking.
-- 12:30 to 12:45 // Q&A
-- 12:45 to 13:00 // Closing (Merve Keskin)
-- 13:00 to 13:30 // Coffee 
-
+- 09:30 to 10:00 // Arrival & coffee
+- 10:00 to 10:15 // Welcome (Merve Keskin)
+- 10:15 to 11:00 //**Lecture: Maps for SDGs** & Design Challenge Results: Team Lightning Showcase (Robert Roth)  
+- 11:00 to 11:15 // Q&A
+- 11:15 to 11:30 // Certificate Ceremony
+- 11:30 to 11:45 // Closing (Merve Keskin)
+- 11:45 to 12:30 // Coffee 
 
 
 
